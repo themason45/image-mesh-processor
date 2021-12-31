@@ -1,0 +1,2 @@
+wkt_geom	id	roll	pitch	yaw	x_pixels	y_pixels	vp_geom	time_taken	photo_ref_type	visivi3_id	cloudfile_id	flight_sensor_id	next_photo_id	prev_photo_id	project_id	fov	file_name
+[-2.66638683195000015 53.13270710758000348 241.56999999999999318]	2887	-0.253	-40.336	300.814	5184	3456	[-2.6694239483225 53.1337938699843 0]	2015-12-01T12:48:10.000Z	2	592488	3091	1	1957	3315	1	24.594153808018703	S2_79604.JPG
